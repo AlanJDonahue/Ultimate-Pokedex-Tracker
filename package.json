@@ -1,0 +1,12 @@
+{
+  "name": "ultimate-pokedex-tracker",
+  "version": "1.0.0",
+  "description": "Help track pokedex progress per mainline Pokemon game",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
